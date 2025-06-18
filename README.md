@@ -2,7 +2,8 @@
 
 This is a simple analog clock created using **HTML**, **CSS**, and **JavaScript**. It visually displays the current time with hour, minute, and second hands that update in real time.
 
-[LIVE Preview](https://mhttarunno.github.io/Analog-Clock/)
+## 📷 Preview 
+[LIVE PRIVIEW](https://mhttarunno.github.io/Analog-Clock/)
 
 ---
 
